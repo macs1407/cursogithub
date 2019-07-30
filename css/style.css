@@ -5,4 +5,9 @@ body {
 #principal{
 	margin: 0 auto;
 	background:gray;
+	font-family: serif;
+}
+#cabecera {
+	font-size:30pt;
+	text-align:center;
 }
