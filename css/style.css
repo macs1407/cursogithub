@@ -2,3 +2,7 @@ body {
 	background: white;
 	font-color:red;
 }
+#principal{
+	margin: 0 auto;
+	background:gray;
+}
